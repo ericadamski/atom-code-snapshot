@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Snapshot Code",
+        "command": "code-snapshot:snapshot"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Code Snapshot",
+          "submenu": [
+            {
+              "label": "Snapshot",
+              "command": "code-snapshot:snapshot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
