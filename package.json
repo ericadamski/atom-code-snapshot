@@ -1,7 +1,7 @@
 {
   "name": "code-snapshot",
   "main": "./lib/code-snapshot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "📸🎆: Get a personalized PNG of your editors code",
   "keywords": [],
   "repository": "https://github.com/ericadamski/atom-code-snapshot",
